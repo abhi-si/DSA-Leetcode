@@ -6,6 +6,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi-si/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abhi-si/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi-si/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -23,6 +25,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi-si/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
