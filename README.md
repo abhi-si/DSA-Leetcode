@@ -6,6 +6,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhi-si/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi-si/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
@@ -31,4 +32,12 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/abhi-si/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/abhi-si/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/abhi-si/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
