@@ -26,6 +26,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0142-linked-list-cycle-ii](https://github.com/abhi-si/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi-si/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi-si/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -62,6 +63,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0148-sort-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi-si/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -74,8 +76,13 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhi-si/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
