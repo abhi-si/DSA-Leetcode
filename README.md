@@ -59,6 +59,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhi-si/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/abhi-si/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 ## Linked List
 |  |
 | ------- |
@@ -77,6 +78,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhi-si/DSA-Leetcode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/abhi-si/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -91,4 +93,8 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhi-si/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
