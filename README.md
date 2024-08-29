@@ -6,6 +6,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhi-si/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/abhi-si/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi-si/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -14,6 +15,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhi-si/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/abhi-si/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi-si/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi-si/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -97,4 +99,12 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhi-si/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/abhi-si/DSA-Leetcode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/abhi-si/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
