@@ -6,6 +6,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhi-si/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhi-si/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/abhi-si/DSA-Leetcode/tree/master/0037-sudoku-solver) |
@@ -27,6 +28,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhi-si/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhi-si/DSA-Leetcode/tree/master/0027-remove-element) |
@@ -113,4 +115,8 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhi-si/DSA-Leetcode/tree/master/0037-sudoku-solver) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/abhi-si/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
