@@ -44,6 +44,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi-si/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi-si/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/abhi-si/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0908-middle-of-the-linked-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -64,6 +65,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0125-valid-palindrome](https://github.com/abhi-si/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/abhi-si/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
+| [0392-is-subsequence](https://github.com/abhi-si/DSA-Leetcode/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,6 +76,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhi-si/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/abhi-si/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/abhi-si/DSA-Leetcode/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
 | ------- |
