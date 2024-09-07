@@ -15,6 +15,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhi-si/DSA-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi-si/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/abhi-si/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi-si/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhi-si/DSA-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -26,6 +27,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0141-linked-list-cycle](https://github.com/abhi-si/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi-si/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi-si/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/abhi-si/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/abhi-si/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi-si/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -61,6 +63,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/abhi-si/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi-si/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## String
@@ -74,6 +77,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhi-si/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/abhi-si/DSA-Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,4 +133,8 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhi-si/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhi-si/DSA-Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
