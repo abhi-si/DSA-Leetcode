@@ -16,6 +16,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0088-merge-sorted-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi-si/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/abhi-si/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi-si/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhi-si/DSA-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -46,6 +47,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0148-sort-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi-si/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi-si/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi-si/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/abhi-si/DSA-Leetcode/tree/master/0392-is-subsequence) |
@@ -103,6 +105,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhi-si/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/abhi-si/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
