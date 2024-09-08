@@ -71,6 +71,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abhi-si/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/abhi-si/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/abhi-si/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/abhi-si/DSA-Leetcode/tree/master/0392-is-subsequence) |
@@ -140,4 +141,8 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhi-si/DSA-Leetcode/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abhi-si/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
