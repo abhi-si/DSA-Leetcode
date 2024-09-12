@@ -82,6 +82,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0151-reverse-words-in-a-string](https://github.com/abhi-si/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/abhi-si/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/abhi-si/DSA-Leetcode/tree/master/0392-is-subsequence) |
+| [1078-remove-outermost-parentheses](https://github.com/abhi-si/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -128,6 +129,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1078-remove-outermost-parentheses](https://github.com/abhi-si/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Memoization
 |  |
 | ------- |
