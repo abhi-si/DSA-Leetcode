@@ -17,6 +17,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi-si/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/abhi-si/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/abhi-si/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/abhi-si/DSA-Leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi-si/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -162,4 +163,8 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/abhi-si/DSA-Leetcode/tree/master/0274-h-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/abhi-si/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
