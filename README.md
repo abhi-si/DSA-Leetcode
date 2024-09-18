@@ -37,6 +37,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0242-valid-anagram](https://github.com/abhi-si/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/abhi-si/DSA-Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi-si/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/abhi-si/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Two Pointers
 |  |
@@ -91,6 +92,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0205-isomorphic-strings](https://github.com/abhi-si/DSA-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhi-si/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/abhi-si/DSA-Leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/abhi-si/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/abhi-si/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/abhi-si/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Divide and Conquer
@@ -160,6 +162,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhi-si/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/abhi-si/DSA-Leetcode/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
