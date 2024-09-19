@@ -15,6 +15,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0053-maximum-subarray](https://github.com/abhi-si/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhi-si/DSA-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/abhi-si/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi-si/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/abhi-si/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0189-rotate-array) |
@@ -29,6 +30,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0001-two-sum](https://github.com/abhi-si/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/abhi-si/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/abhi-si/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/abhi-si/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/abhi-si/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi-si/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi-si/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -179,4 +181,8 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abhi-si/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhi-si/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
