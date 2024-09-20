@@ -11,6 +11,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhi-si/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/abhi-si/DSA-Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/abhi-si/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/abhi-si/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/abhi-si/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhi-si/DSA-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -127,6 +128,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhi-si/DSA-Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/abhi-si/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/abhi-si/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0189-rotate-array) |
 ## Recursion
@@ -156,6 +158,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhi-si/DSA-Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/abhi-si/DSA-Leetcode/tree/master/0048-rotate-image) |
 ## Greedy
 |  |
 | ------- |
