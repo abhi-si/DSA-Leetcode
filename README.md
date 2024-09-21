@@ -20,6 +20,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi-si/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/abhi-si/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/abhi-si/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/abhi-si/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/abhi-si/DSA-Leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi-si/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -70,6 +71,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi-si/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/abhi-si/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi-si/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sorting
@@ -183,9 +185,14 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abhi-si/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/abhi-si/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhi-si/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abhi-si/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
