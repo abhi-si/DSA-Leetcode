@@ -107,6 +107,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0383-ransom-note](https://github.com/abhi-si/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/abhi-si/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/abhi-si/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/abhi-si/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,6 +142,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0070-climbing-stairs](https://github.com/abhi-si/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abhi-si/DSA-Leetcode/tree/master/0202-happy-number) |
+| [2032-largest-odd-number-in-string](https://github.com/abhi-si/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -173,6 +175,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhi-si/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+| [2032-largest-odd-number-in-string](https://github.com/abhi-si/DSA-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Counting
 |  |
 | ------- |
