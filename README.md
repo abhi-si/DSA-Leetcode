@@ -15,6 +15,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0048-rotate-image](https://github.com/abhi-si/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/abhi-si/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/abhi-si/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/abhi-si/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhi-si/DSA-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/abhi-si/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/abhi-si/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -76,6 +77,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/abhi-si/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi-si/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhi-si/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi-si/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -172,6 +174,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhi-si/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/abhi-si/DSA-Leetcode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/abhi-si/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Greedy
 |  |
 | ------- |
