@@ -40,6 +40,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0128-longest-consecutive-sequence](https://github.com/abhi-si/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/abhi-si/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi-si/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/abhi-si/DSA-Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi-si/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/abhi-si/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/abhi-si/DSA-Leetcode/tree/master/0202-happy-number) |
@@ -134,6 +135,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/abhi-si/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi-si/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/abhi-si/DSA-Leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi-si/DSA-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/abhi-si/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
@@ -218,4 +220,12 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhi-si/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/abhi-si/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/abhi-si/DSA-Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/abhi-si/DSA-Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
