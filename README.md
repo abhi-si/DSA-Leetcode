@@ -231,4 +231,8 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/abhi-si/DSA-Leetcode/tree/master/0146-lru-cache) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/abhi-si/DSA-Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
