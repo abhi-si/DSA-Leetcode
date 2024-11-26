@@ -234,5 +234,6 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/abhi-si/DSA-Leetcode/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/abhi-si/DSA-Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
